@@ -100,4 +100,4 @@ This component is implemented with deepseek-v4-flash and codewhale.
 
 ## License
 
-MIT (LICENSE file to be added with repo initialization)
+Released under the [MIT License](LICENSE).

@@ -100,4 +100,4 @@ void main_loop(void) {
 
 ## License
 
-MIT（LICENSE 文件随仓库初始化添加）
+基于 [MIT](LICENSE) 协议开源。
